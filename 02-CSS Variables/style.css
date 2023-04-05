@@ -1,37 +1,34 @@
 :root {
-    --base: #ffc600;
-    --spacing: 10px;
-    --blur: 10px;
-  }
+  --base: #4caf50;
+  --spacing: 20px;
+  --blur: 5px;
+}
 
-  img {
-    padding: var(--spacing);
-    background: var(--base);
-    filter: blur(var(--blur));
-  }
+img {
+  padding: var(--spacing);
+  background: var(--base);
+  filter: blur(var(--blur));
+}
 
-  .hl {
-    color: var(--base);
-  }
+.hl {
+  color: var(--base);
+}
 
-  /*
-    misc styles, nothing to do with CSS variables
-  */
 
-  body {
-    text-align: center;
-    background: #193549;
-    color: white;
-    font-family: 'helvetica neue', sans-serif;
-    font-weight: 100;
-    font-size: 50px;
-  }
 
-  .controls {
-    margin-bottom: 50px;
-  }
+body {
+  text-align: center;
+  background: #a8d1ec;
+  color: #ecf0f1;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 40px;
+}
 
-  input {
-    width: 100px;
-  }
+.controls {
+  margin-bottom: 60px;
+}
 
+input {
+  width: 120px;
+}
