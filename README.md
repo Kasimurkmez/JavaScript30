@@ -5,3 +5,4 @@
 JavaScript 30 Day Challenge.
 
 01- Live Demo: https://resplendent-tartufo-f38d06.netlify.app
+02- Live Demo: https://effortless-pavlova-9d98ed.netlify.app
